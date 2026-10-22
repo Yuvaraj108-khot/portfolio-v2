@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /archive/
+Disallow: /internal/
+Disallow: /old-api/
+Disallow: /scratch/
+Disallow: /v1/
+Allow: /
+Sitemap: https://portfolio.example.invalid/sitemap.xml
